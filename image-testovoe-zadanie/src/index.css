@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.invalid-field {
+  border-color: red;
+  color:red;
+  background-color: white;
+}
+table{
+  margin:45px auto 15px auto;
+}
+table div.card-body{
+  text-align: center;
+}
+
+div.container{
+margin-right: 100px;
+}
+div.form-group{
+  margin-top: 5px;
+}
+button{
+  margin: 2px;
+}
